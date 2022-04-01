@@ -6,6 +6,17 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*
-Add some style blocks below this line to style the card.
-*/
+section {
+    width: 400px;
+    border: solid 1px gray;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  section h2,
+  section p,
+  section button {
+    margin: 10px;
+  }
